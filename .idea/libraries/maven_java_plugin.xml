@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="maven.java.plugin" type="repository">
+    <properties maven-id="maven:maven-java-plugin:1.5" />
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/maven-java-plugin-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_202/jre/lib/plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
